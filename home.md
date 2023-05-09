@@ -1,8 +1,11 @@
 ---
-title: "Home"
-layout: page
+layout: default
+permalink: "/blog/"
+title: "Blog"
 ---
 
-## About Me
-
-Hi! I need to edit this more later...!!!
+{% if site.show_excerpts %}
+  {% include home.html %}
+{% else %}
+  {% include archive.html title="Posts" %}
+{% endif %}
