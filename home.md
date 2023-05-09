@@ -1,5 +1,4 @@
 ---
-title: "Noah Ring"
 layout: page
 ---
 
