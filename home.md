@@ -1,5 +1,6 @@
 ---
 title: "Noah Ring"
+permalink: ""
 layout: page
 ---
 
