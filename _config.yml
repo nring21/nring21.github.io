@@ -1,6 +1,7 @@
 title: "Noah Ring"
 author: "Noah Ring"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: "Physics :)"
+# "Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -22,7 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
 #   - {title: Mail, icon: envelope, url: "mailto:nmr85@cornell.edu"}
   - {title: Github, icon: github, url: "https://github.com/nring21"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+#   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
