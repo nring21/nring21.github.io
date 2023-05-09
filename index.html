@@ -2,6 +2,13 @@
 layout: default
 title: "Home"
 ---
+
+{% if site.show_excerpts %}
+  {% include home.html %}
+{% else %}
+  {% include archive.html title="Posts" %}
+{% endif %}
+
 <head>
     <title>Title of the document</title>
  </head>
@@ -12,8 +19,3 @@ title: "Home"
     <p>First paragraph of the text</p>
     <h2>Subheading</h2>
   </body>
-{% if site.show_excerpts %}
-  {% include home.html %}
-{% else %}
-  {% include archive.html title="Posts" %}
-{% endif %}
