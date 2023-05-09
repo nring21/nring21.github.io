@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "blog.html"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:nmr85@cornell.edu"}
+#   - {title: Mail, icon: envelope, url: "mailto:nmr85@cornell.edu"}
   - {title: Github, icon: github, url: "https://github.com/nring21"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
