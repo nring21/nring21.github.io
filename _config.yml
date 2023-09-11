@@ -7,6 +7,7 @@ lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
+# Unclear if does anything...
 markdown: kramdown
 
 mathjax: true
