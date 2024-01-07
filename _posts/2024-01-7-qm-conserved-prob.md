@@ -25,4 +25,4 @@ By staring at the Lagrangian we have written down, it is clear that it has a \(U
 
 \begin{equation} \psi \to \psi^\prime = e^{i\alpha}\psi \text{ }(\psi^\dagger \to \psi^{\dagger\prime} = e^{-i\alpha}\psi^\dagger) \implies \mathcal{L} \to \mathcal{L}^\prime = \mathcal{L}, \end{equation}
 
-Thus, we can vary the action by 
+Thus, we can vary the action by changing
