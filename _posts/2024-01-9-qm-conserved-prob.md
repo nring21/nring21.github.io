@@ -108,8 +108,8 @@ is by itself far more physically motivating.
 ---
 
 [^1]: In this case, the resulting field in the Lagrangian is known as a
-    [Schrödinger field](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_field).
+    [Schrödinger field](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_field){:target="_blank"}.
     To arrive at the result, one must assume that the fields are either
     classical or quantum. The former leads to a simpler derivation, while the
     latter is more complicated due to non-commutativity. More can be found
-    [here](https://en.wikipedia.org/wiki/Klein%E2%80%93Gordon_equation#Non-relativistic_limit).
+    [here](https://en.wikipedia.org/wiki/Klein%E2%80%93Gordon_equation#Non-relativistic_limit){:target="_blank"}.
