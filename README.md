@@ -5,3 +5,6 @@ To locally build website, run:
 To view the website locally, visit:
 
 ```http://localhost:4000```
+
+When using VSCode, view website in-app with `cmd+shift+p`, then searching for 
+`simple brower` and typing in the local address.
