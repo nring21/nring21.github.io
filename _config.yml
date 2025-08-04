@@ -1,6 +1,7 @@
 title: "Noah Ring"
 author: "Noah Ring"
-description: "\u210F = 𝑐 = 1"
+# description: "\u210F = 𝑐 = 1"
+description: ""
 # "Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
 lang: "en"
